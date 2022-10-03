@@ -5,3 +5,8 @@ The project achieves goals:
 3. Embedded a linear regression algorithm for calibration of the wheels' movement accuracy
 4. Achieved 100% evasion in avoiding the thick obstacles
 5. Infered remote control in case the autonomous mal-function
+
+
+Referrence:
+
+https://toptechboy.com/robotic-tutorial-for-beginners/
